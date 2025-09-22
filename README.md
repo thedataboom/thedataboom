@@ -70,7 +70,8 @@ Here’s a snapshot of my work:
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielleboomer-securedata/)  
-- 🐙 [GitHub](https://github.com/thedataboom)  
+- 🐙 [GitHub](https://github.com/thedataboom)
+- 👩‍💻 [Codédex](https://www.codedex.io/@Bri18) 
 - ✉️ Reach out to collaborate, ask questions, or just say hi!
 
 ---
